@@ -1,0 +1,20 @@
+{
+  "name": "chaoxing-auto-homework",
+  "interface": {
+    "displayName": "超星学习通自动答题"
+  },
+  "plugins": [
+    {
+      "name": "chaoxing-auto-homework",
+      "source": {
+        "source": "local",
+        "path": "./plugins/chaoxing-auto-homework"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

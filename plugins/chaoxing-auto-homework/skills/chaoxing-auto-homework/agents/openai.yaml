@@ -1,0 +1,4 @@
+interface:
+  display_name: "超星学习通自动答题"
+  short_description: "在超星学习通(chaoxing.com)自动完成选择题/多选题/简答题作业"
+  default_prompt: "帮我完成这份学习通作业，包括选择题和简答题"

@@ -1,0 +1,27 @@
+{
+  "name": "chaoxing-auto-homework",
+  "version": "0.1.0",
+  "description": "Codex skill plugin for assisting with Chaoxing Learning homework pages.",
+  "author": {
+    "name": "fishq"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "超星学习通自动答题",
+    "shortDescription": "在超星学习通作业页辅助完成选择题、多选题和简答题。",
+    "longDescription": "这个插件向 Codex 添加一个学习通作业辅助 skill，可读取 mooc1.chaoxing.com 作业页面、分析题目，并通过 Codex 浏览器自动选择选项或填入简答题内容。它不会自动提交作业，提交前仍需要人工检查。",
+    "developerName": "fishq",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write",
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "帮我完成这份学习通作业",
+      "读取当前学习通题目并给出答案",
+      "把学习通多选题答案填到页面上"
+    ],
+    "brandColor": "#1677FF"
+  }
+}
