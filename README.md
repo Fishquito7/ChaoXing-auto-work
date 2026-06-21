@@ -16,7 +16,8 @@
 ### 方式一：
 1. 点击侧边栏的插件——点击“+”旁边的箭头——添加插件市场
 
-<img width="615" height="176" alt="image" src="https://github.com/user-attachments/assets/f38f34f2-1baa-40c9-a3a1-6763ae8eec76" />
+<img width="840" height="175" alt="image" src="https://github.com/user-attachments/assets/7a464e04-42d2-4da3-9d61-65b6f3d280d8" />
+
 
 2. 在来源处附上本项目url，然后点击添加市场
 ```
