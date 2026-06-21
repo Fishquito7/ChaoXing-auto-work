@@ -13,18 +13,22 @@
 ## 安装方式
 - 方式一将skill封装成插件以便直接通过Codex的“添加插件市场功能”直接进行拉取、安装和注册。
 - 方式二作为备选，分享skill进行下载，让Codex对skill进行注册。
-### 方式一（推荐）：
-点击侧边栏的插件——点击“+”旁边的箭头——添加插件市场
+### 方式一：
+1. 点击侧边栏的插件——点击“+”旁边的箭头——添加插件市场
 
 <img width="615" height="176" alt="image" src="https://github.com/user-attachments/assets/f38f34f2-1baa-40c9-a3a1-6763ae8eec76" />
 
-在来源处附上本项目url，然后点击添加市场
+2. 在来源处附上本项目url，然后点击添加市场
 ```
-https://github.com/Fishquito7/ChaoXing-auto-work-skill
+https://github.com/Fishquito7/ChaoXing-auto-work
 ```
-<img width="440" height="321" alt="image" src="https://github.com/user-attachments/assets/e782fb90-a8b8-44db-a272-edde52f5076a" />
+<img width="451" height="316" alt="image" src="https://github.com/user-attachments/assets/ebcda30f-5eda-41c2-ac07-281cdaab721e" />
 
-添加完毕后重启Codex确保插件加载
+
+3. 接着找到插件，点击“添加插件”以完成安装
+
+<img width="614" height="349" alt="image" src="https://github.com/user-attachments/assets/484aad73-8d67-4498-b4ae-d242d75f3358" />
+
 
 ### 方式二：
 直接在release处下载本项目核心skill.md文件，把skill.md扔给Codex进行注册：
